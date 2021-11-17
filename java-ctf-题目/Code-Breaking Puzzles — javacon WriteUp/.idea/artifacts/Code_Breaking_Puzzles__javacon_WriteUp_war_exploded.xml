@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Code-Breaking Puzzles — javacon WriteUp:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Code_Breaking_Puzzles__javacon_WriteUp_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Code-Breaking Puzzles — javacon WriteUp/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Code-Breaking Puzzles — javacon WriteUp" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

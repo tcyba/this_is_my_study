@@ -1,0 +1,126 @@
+2021-11-17 09:20:06 INFO  main com.ctf.cb.CbApplication Starting CbApplication v0.0.1-SNAPSHOT using Java 1.8.0_181 on LAPTOP-9P8NN53N with PID 152684 (D:\oneDrive云存储\OneDrive\桌面\java代码审计学起\我的学习项目\this_is_my_study\java-ctf-题目\深育杯\cb-0.0.1-SNAPSHOT.jar started by tao in D:\oneDrive云存储\OneDrive\桌面\java代码审计学起\我的学习项目\this_is_my_study\java-ctf-题目\深育杯)
+2021-11-17 09:20:06 INFO  main com.ctf.cb.CbApplication No active profile set, falling back to default profiles: default
+2021-11-17 09:20:11 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2021-11-17 09:20:11 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2021-11-17 09:20:11 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2021-11-17 09:20:11 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-11-17 09:20:11 INFO  main org.apache.catalina.core.AprLifecycleListener An older version [1.2.27] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.30]
+2021-11-17 09:20:11 INFO  main org.apache.catalina.core.AprLifecycleListener Loaded Apache Tomcat Native library [1.2.27] using APR version [1.7.0].
+2021-11-17 09:20:11 INFO  main org.apache.catalina.core.AprLifecycleListener APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2021-11-17 09:20:11 INFO  main org.apache.catalina.core.AprLifecycleListener APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-11-17 09:20:11 INFO  main org.apache.catalina.core.AprLifecycleListener OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+2021-11-17 09:20:11 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2021-11-17 09:20:11 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 4915 ms
+2021-11-17 09:20:12 INFO  main org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping Adding welcome page template: index
+2021-11-17 09:20:12 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2021-11-17 09:20:12 INFO  main org.apache.coyote.http11.Http11NioProtocol Pausing ProtocolHandler ["http-nio-8081"]
+2021-11-17 09:20:12 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2021-11-17 09:20:12 INFO  main org.apache.coyote.http11.Http11NioProtocol Stopping ProtocolHandler ["http-nio-8081"]
+2021-11-17 09:20:12 INFO  main org.apache.coyote.http11.Http11NioProtocol Destroying ProtocolHandler ["http-nio-8081"]
+2021-11-17 09:20:12 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-11-17 09:20:42 INFO  main com.ctf.cb.CbApplication Starting CbApplication v0.0.1-SNAPSHOT using Java 1.8.0_181 on LAPTOP-9P8NN53N with PID 132108 (D:\oneDrive云存储\OneDrive\桌面\java代码审计学起\我的学习项目\this_is_my_study\java-ctf-题目\深育杯\cb-0.0.1-SNAPSHOT.jar started by tao in D:\oneDrive云存储\OneDrive\桌面\java代码审计学起\我的学习项目\this_is_my_study\java-ctf-题目\深育杯)
+2021-11-17 09:20:42 INFO  main com.ctf.cb.CbApplication No active profile set, falling back to default profiles: default
+2021-11-17 09:20:47 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2021-11-17 09:20:47 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2021-11-17 09:20:47 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2021-11-17 09:20:47 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-11-17 09:20:47 INFO  main org.apache.catalina.core.AprLifecycleListener An older version [1.2.27] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.30]
+2021-11-17 09:20:47 INFO  main org.apache.catalina.core.AprLifecycleListener Loaded Apache Tomcat Native library [1.2.27] using APR version [1.7.0].
+2021-11-17 09:20:47 INFO  main org.apache.catalina.core.AprLifecycleListener APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2021-11-17 09:20:47 INFO  main org.apache.catalina.core.AprLifecycleListener APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-11-17 09:20:47 INFO  main org.apache.catalina.core.AprLifecycleListener OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+2021-11-17 09:20:47 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2021-11-17 09:20:47 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 4614 ms
+2021-11-17 09:20:47 INFO  main org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping Adding welcome page template: index
+2021-11-17 09:20:48 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2021-11-17 09:20:48 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2021-11-17 09:20:48 INFO  main com.ctf.cb.CbApplication Started CbApplication in 6.009 seconds (JVM running for 6.49)
+2021-11-17 09:20:51 INFO  http-nio-8081-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-11-17 09:20:51 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2021-11-17 09:20:51 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2021-11-17 11:28:28 INFO  main com.ctf.cb.CbApplication Starting CbApplication v0.0.1-SNAPSHOT using Java 1.8.0_181 on LAPTOP-9P8NN53N with PID 154020 (D:\oneDrive云存储\OneDrive\桌面\java代码审计学起\我的学习项目\this_is_my_study\java-ctf-题目\深育杯\cb-0.0.1-SNAPSHOT.jar started by tao in D:\oneDrive云存储\OneDrive\桌面\java代码审计学起\我的学习项目\this_is_my_study\java-ctf-题目\深育杯)
+2021-11-17 11:28:28 INFO  main com.ctf.cb.CbApplication No active profile set, falling back to default profiles: default
+2021-11-17 11:28:33 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2021-11-17 11:28:33 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2021-11-17 11:28:33 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2021-11-17 11:28:33 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-11-17 11:28:33 INFO  main org.apache.catalina.core.AprLifecycleListener An older version [1.2.27] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.30]
+2021-11-17 11:28:33 INFO  main org.apache.catalina.core.AprLifecycleListener Loaded Apache Tomcat Native library [1.2.27] using APR version [1.7.0].
+2021-11-17 11:28:33 INFO  main org.apache.catalina.core.AprLifecycleListener APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2021-11-17 11:28:33 INFO  main org.apache.catalina.core.AprLifecycleListener APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-11-17 11:28:33 INFO  main org.apache.catalina.core.AprLifecycleListener OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+2021-11-17 11:28:33 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2021-11-17 11:28:33 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 4575 ms
+2021-11-17 11:28:33 INFO  main org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping Adding welcome page template: index
+2021-11-17 11:28:34 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2021-11-17 11:28:34 INFO  main org.apache.coyote.http11.Http11NioProtocol Pausing ProtocolHandler ["http-nio-8081"]
+2021-11-17 11:28:34 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2021-11-17 11:28:34 INFO  main org.apache.coyote.http11.Http11NioProtocol Stopping ProtocolHandler ["http-nio-8081"]
+2021-11-17 11:28:34 INFO  main org.apache.coyote.http11.Http11NioProtocol Destroying ProtocolHandler ["http-nio-8081"]
+2021-11-17 11:28:34 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-11-17 11:28:50 INFO  main com.ctf.cb.CbApplication Starting CbApplication v0.0.1-SNAPSHOT using Java 1.8.0_181 on LAPTOP-9P8NN53N with PID 147292 (D:\oneDrive云存储\OneDrive\桌面\java代码审计学起\我的学习项目\this_is_my_study\java-ctf-题目\深育杯\cb-0.0.1-SNAPSHOT.jar started by tao in D:\oneDrive云存储\OneDrive\桌面\java代码审计学起\我的学习项目\this_is_my_study\java-ctf-题目\深育杯)
+2021-11-17 11:28:50 INFO  main com.ctf.cb.CbApplication No active profile set, falling back to default profiles: default
+2021-11-17 11:28:55 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2021-11-17 11:28:55 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2021-11-17 11:28:55 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2021-11-17 11:28:55 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-11-17 11:28:55 INFO  main org.apache.catalina.core.AprLifecycleListener An older version [1.2.27] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.30]
+2021-11-17 11:28:55 INFO  main org.apache.catalina.core.AprLifecycleListener Loaded Apache Tomcat Native library [1.2.27] using APR version [1.7.0].
+2021-11-17 11:28:55 INFO  main org.apache.catalina.core.AprLifecycleListener APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2021-11-17 11:28:55 INFO  main org.apache.catalina.core.AprLifecycleListener APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-11-17 11:28:55 INFO  main org.apache.catalina.core.AprLifecycleListener OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+2021-11-17 11:28:55 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2021-11-17 11:28:55 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 4896 ms
+2021-11-17 11:28:55 INFO  main org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping Adding welcome page template: index
+2021-11-17 11:28:55 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2021-11-17 11:28:55 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2021-11-17 11:28:55 INFO  main com.ctf.cb.CbApplication Started CbApplication in 6.216 seconds (JVM running for 6.706)
+2021-11-17 11:29:06 INFO  http-nio-8081-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-11-17 11:29:06 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2021-11-17 11:29:06 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 1 ms
+2021-11-17 12:02:05 INFO  main com.ctf.cb.CbApplication Starting CbApplication v0.0.1-SNAPSHOT using Java 1.8.0_181 on LAPTOP-9P8NN53N with PID 115468 (D:\oneDrive云存储\OneDrive\桌面\java代码审计学起\我的学习项目\this_is_my_study\java-ctf-题目\深育杯\cb-0.0.1-SNAPSHOT.jar started by tao in D:\oneDrive云存储\OneDrive\桌面\java代码审计学起\我的学习项目\this_is_my_study\java-ctf-题目\深育杯)
+2021-11-17 12:02:05 INFO  main com.ctf.cb.CbApplication No active profile set, falling back to default profiles: default
+2021-11-17 12:02:10 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2021-11-17 12:02:10 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2021-11-17 12:02:10 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2021-11-17 12:02:10 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-11-17 12:02:10 INFO  main org.apache.catalina.core.AprLifecycleListener An older version [1.2.27] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.30]
+2021-11-17 12:02:10 INFO  main org.apache.catalina.core.AprLifecycleListener Loaded Apache Tomcat Native library [1.2.27] using APR version [1.7.0].
+2021-11-17 12:02:10 INFO  main org.apache.catalina.core.AprLifecycleListener APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2021-11-17 12:02:10 INFO  main org.apache.catalina.core.AprLifecycleListener APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-11-17 12:02:10 INFO  main org.apache.catalina.core.AprLifecycleListener OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+2021-11-17 12:02:10 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2021-11-17 12:02:10 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 4528 ms
+2021-11-17 12:02:10 INFO  main org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping Adding welcome page template: index
+2021-11-17 12:02:11 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2021-11-17 12:02:11 INFO  main org.apache.coyote.http11.Http11NioProtocol Pausing ProtocolHandler ["http-nio-8081"]
+2021-11-17 12:02:11 INFO  main org.apache.catalina.core.StandardService Stopping service [Tomcat]
+2021-11-17 12:02:11 INFO  main org.apache.coyote.http11.Http11NioProtocol Stopping ProtocolHandler ["http-nio-8081"]
+2021-11-17 12:02:11 INFO  main org.apache.coyote.http11.Http11NioProtocol Destroying ProtocolHandler ["http-nio-8081"]
+2021-11-17 12:02:11 INFO  main org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-11-17 12:03:02 INFO  main com.ctf.cb.CbApplication Starting CbApplication v0.0.1-SNAPSHOT using Java 1.8.0_181 on LAPTOP-9P8NN53N with PID 158704 (D:\oneDrive云存储\OneDrive\桌面\java代码审计学起\我的学习项目\this_is_my_study\java-ctf-题目\深育杯\cb-0.0.1-SNAPSHOT.jar started by tao in D:\oneDrive云存储\OneDrive\桌面\java代码审计学起\我的学习项目\this_is_my_study\java-ctf-题目\深育杯)
+2021-11-17 12:03:02 INFO  main com.ctf.cb.CbApplication No active profile set, falling back to default profiles: default
+2021-11-17 12:03:07 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat initialized with port(s): 8081 (http)
+2021-11-17 12:03:07 INFO  main org.apache.coyote.http11.Http11NioProtocol Initializing ProtocolHandler ["http-nio-8081"]
+2021-11-17 12:03:07 INFO  main org.apache.catalina.core.StandardService Starting service [Tomcat]
+2021-11-17 12:03:07 INFO  main org.apache.catalina.core.StandardEngine Starting Servlet engine: [Apache Tomcat/9.0.52]
+2021-11-17 12:03:07 INFO  main org.apache.catalina.core.AprLifecycleListener An older version [1.2.27] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.30]
+2021-11-17 12:03:07 INFO  main org.apache.catalina.core.AprLifecycleListener Loaded Apache Tomcat Native library [1.2.27] using APR version [1.7.0].
+2021-11-17 12:03:07 INFO  main org.apache.catalina.core.AprLifecycleListener APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2021-11-17 12:03:07 INFO  main org.apache.catalina.core.AprLifecycleListener APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2021-11-17 12:03:07 INFO  main org.apache.catalina.core.AprLifecycleListener OpenSSL successfully initialized [OpenSSL 1.1.1k  25 Mar 2021]
+2021-11-17 12:03:07 INFO  main org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring embedded WebApplicationContext
+2021-11-17 12:03:07 INFO  main org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 4613 ms
+2021-11-17 12:03:07 INFO  main org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping Adding welcome page template: index
+2021-11-17 12:03:07 INFO  main org.apache.coyote.http11.Http11NioProtocol Starting ProtocolHandler ["http-nio-8081"]
+2021-11-17 12:03:07 INFO  main org.springframework.boot.web.embedded.tomcat.TomcatWebServer Tomcat started on port(s): 8081 (http) with context path ''
+2021-11-17 12:03:07 INFO  main com.ctf.cb.CbApplication Started CbApplication in 6.028 seconds (JVM running for 6.581)
+2021-11-17 12:03:23 INFO  http-nio-8081-exec-1 org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-11-17 12:03:23 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Initializing Servlet 'dispatcherServlet'
+2021-11-17 12:03:23 INFO  http-nio-8081-exec-1 org.springframework.web.servlet.DispatcherServlet Completed initialization in 0 ms
